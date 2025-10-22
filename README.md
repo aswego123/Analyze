@@ -1,3 +1,1 @@
-# Analyze
-
-Generated application for Analyze
+git clone https://github.com/aswego123/Analyze.git
